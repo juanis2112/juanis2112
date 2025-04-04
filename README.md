@@ -8,16 +8,20 @@ I’m Juanita! I’m a PhD candidate in Computer Science at UC Santa Cruz and th
 - 📢 I’m part of the SciPy organizing committee as a Communications Chair, helping with outreach and engagement for the conference.
 - 🔐 I do research in open source security in collaboration with the Open Source Program Office at UCSC.
 - 🎶 I'm a singer, and I play some piano and guitar. I've been in multiple bands, choirs and music groups.
-- 🗣️ I love speaking at conferences and have given talks on topics I’m really passionate about, including community building, documentation and open source security.
 
-## Let's connect 
+## Let's connect 🤝
 
-- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/juanitagomezr/)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/juanitagomezr/)
 - 📧 Send me an email: jgomez91@ucsc.edu
 
-## My talks
+## My talks 🗣️
 
-- **["Understanding the XZ Security Breach and Open Source Security"](https://www.youtube.com/watch?v=ahcC_P4pu9U)** - Panel at Berkeley Institute for Data Science, **2024**
+I love speaking at conferences and have given talks on topics I’m really passionate about, including community building, documentation and open source security.
+
+<details>
+  <summary> Click to see my talks!</summary>
+  
+ - **["Understanding the XZ Security Breach and Open Source Security"](https://www.youtube.com/watch?v=ahcC_P4pu9U)** - Panel at Berkeley Institute for Data Science, **2024**
 
 - **["Scientific Python - From Github to TikTok"](https://youtu.be/vx6HWNbyWCM?si=B7zcpdRhG08hQrPp)** - LLM Avalanche, Open Source Summit Europe, **2023**
 
@@ -36,6 +40,10 @@ I’m Juanita! I’m a PhD candidate in Computer Science at UC Santa Cruz and th
 - **["Accelerating your research workflow with Spyder"](https://youtu.be/TER03vEchxA?si=dwKw0lNDm83gAWlU)** - Workshop at Women in Bioinformatics & Data Science LA, **2020**
 
 - **["Mejora tu flujo de trabajo en investigación científica con Spyder"](https://www.youtube.com/live/5139R4FCV2Y?si=EWRa1GKoo9JNfTmO)** - Workshop at Python Medellin Meetup, **2020**
+
+</details>
+
+
 
 
 ## Future Talks
