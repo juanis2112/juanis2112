@@ -46,7 +46,7 @@ I love speaking at conferences and have given talks on topics I’m really passi
 
 
 
-## Future Talks
+## Future Talks 🗓️ 
 
 - **["Recipe for Discovery: Building the UC Open Source Repository Browser from Scratch"](https://ossna2025.sched.com/event/1zfjH/recipe-for-discovery-building-the-uc-open-source-repository-browser-from-scratch-juanita-gomez-university-of-california-santa-cruz?iframe=yes&w=100%&sidebar=yes&bg=no)** - Open Source Summit North America **2025** - Denver, Colorado (Tuesday, June 24, 2025, 11:00am - 11:40am MDT)
   
