@@ -3,10 +3,10 @@
 I’m Juanita! I’m a PhD candidate in Computer Science at UC Santa Cruz and the Community Manager for the Scientific Python Project.
 
 - 🎓 I completed my undergrad in pure mathematics at Universidad Javeriana in Colombia.
-- 👩‍💻 I was a developer for Spyder IDE at Quansight which is when I started actively contributing to open source and became a huge open source advocate.
-- 🌱 I’m currently a community manager for the Scientific Python Project, helping grow and coordinate the scientific Python ecosystem.
-- 📢 I’m part of the SciPy organizing committee as a Communications Chair, helping with outreach and engagement for the conference.
-- 🔐 I do research in open source security in collaboration with the Open Source Program Office at UCSC.
+- 👩‍💻 I was a developer for [Spyder IDE](https://www.spyder-ide.org) at Quansight which is when I started actively contributing to open source and became a huge open source advocate.
+- 🌱 I’m currently a community manager for the [Scientific Python Project](https://scientific-python.org), helping grow and coordinate the scientific Python ecosystem.
+- 📢 I’m part of the [SciPy Conference](https://www.scipy2025.scipy.org) organizing committee as a Communications Chair, helping with outreach and engagement for the conference.
+- 🔐 I do research in open source security in collaboration with the [Open Source Program Office at UCSC](https://ucsc-ospo.github.io).
 - 🎶 I'm a singer, and I play some piano and guitar. I've been in multiple bands, choirs and music groups.
 
 ## Let's connect 🤝
