@@ -43,8 +43,24 @@ I love speaking at conferences and have given talks on topics I’m really passi
 
 </details>
 
+## My blog posts ✍️
 
+I love writing about the things I care about, whether it's documentation, community or just sharing what I'm working on in my job.
 
+<details>
+  <summary> Click to see my blogposts!</summary>
+
+- [Writing docs is not just writing docs](https://labs.quansight.org/blog/2020/07/writing-docs-is-not-just-writing-docs)
+  
+- [STX Next, Python development company, uses Spyder to improve their workflow](https://www.spyder-ide.org/blog/STX-interview)
+  
+- [A step towards educating with Spyder](https://labs.quansight.org/blog/a-step-towards-educating-with-spyder)
+  
+- [Spot the differences: what is new in Spyder 5?](https://labs.quansight.org/blog/2021/04/spot-the-diffenrences)
+  
+- [Scientific Python: Community developed, community owned](https://blog.scientific-python.org/scientific-python/scientific-python-project/)
+
+</details>
 
 ## Future Talks 🗓️ 
 
