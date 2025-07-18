@@ -20,7 +20,9 @@ I love speaking at conferences and have given talks on topics I’m really passi
 
 <details>
   <summary> Click to see my talks!</summary>
-  
+ 
+ - **["Recipe for Discovery: Building the UC Open Source Repository Browser from Scratch"](https://youtu.be/mlDZ_0gRnt8?si=Uy7zEjCt-1gvtm_8)** - Open Source Summit North America, **2025**
+
  - **["Understanding the XZ Security Breach and Open Source Security"](https://www.youtube.com/watch?v=ahcC_P4pu9U)** - Panel at Berkeley Institute for Data Science, **2024**
 
 - **["Scientific Python - From Github to TikTok"](https://youtu.be/vx6HWNbyWCM?si=B7zcpdRhG08hQrPp)** - LLM Avalanche, Open Source Summit Europe, **2023**
@@ -64,7 +66,7 @@ I love writing about the things I care about, whether it's documentation, commun
 
 ## Future Talks 🗓️ 
 
-- **["Recipe for Discovery: Building the UC Open Source Repository Browser from Scratch"](https://ossna2025.sched.com/event/1zfjH/recipe-for-discovery-building-the-uc-open-source-repository-browser-from-scratch-juanita-gomez-university-of-california-santa-cruz?iframe=yes&w=100%&sidebar=yes&bg=no)** - Open Source Summit North America **2025** - Denver, Colorado (Tuesday, June 24, 2025, 11:00am - 11:40am MDT)
+- **["Recipe for Discovery: Building the UC Open Source Repository Browser from Scratch"](https://2025.fossy.us/schedule/presentation/357/)** - Free and Open Source Software Yearly Conference (FOSSY) **2025** - Portland, Oregon (Saturday, August 2, 2025, 5:30PM - 6:15PM PT)
   
 <!--
 **juanis2112/juanis2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
