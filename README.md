@@ -20,6 +20,8 @@ I love speaking at conferences and have given talks on topics I’m really passi
 
 <details>
   <summary> Click to see my talks!</summary>
+
+ - **["Recipe for Discovery: Building the UC Open Source Repository Browser from Scratch"](https://www.youtube.com/live/KDeVn23d-bY?si=a8MMKlEt3nneszYp&t=24478)** - Free and Open Source Software Yearly Conference (FOSSY) **2025** 
  
  - **["Recipe for Discovery: Building the UC Open Source Repository Browser from Scratch"](https://youtu.be/mlDZ_0gRnt8?si=Uy7zEjCt-1gvtm_8)** - Open Source Summit North America, **2025**
 
@@ -66,7 +68,7 @@ I love writing about the things I care about, whether it's documentation, commun
 
 ## Future Talks 🗓️ 
 
-- **["Recipe for Discovery: Building the UC Open Source Repository Browser from Scratch"](https://2025.fossy.us/schedule/presentation/357/)** - Free and Open Source Software Yearly Conference (FOSSY) **2025** - Portland, Oregon (Saturday, August 2, 2025, 5:30PM - 6:15PM PT)
+- **["How Secure is Academic Open Source? Insights From the UC OSPO Network"](https://colocatedeventsna2025.sched.com/event/28D1G/how-secure-is-academic-open-source-insights-from-the-uc-ospo-network-juanita-gomez-university-of-california-santa-cruz)** - CNCF: Open Source Security Con **2025** - Atlanta, Georgia (Monday November 10, 2025 10:40am - 11:05am EST)
   
 <!--
 **juanis2112/juanis2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
