@@ -3,9 +3,10 @@
 I’m Juanita! I’m a PhD candidate in Computer Science at UC Santa Cruz and the Community Manager for the Scientific Python Project.
 
 - 🎓 I completed my undergrad in pure mathematics at Universidad Javeriana in Colombia.
-- 👩‍💻 I was a developer for [Spyder IDE](https://www.spyder-ide.org) at Quansight which is when I started actively contributing to open source and became a huge open source advocate.
+- 👩‍💻 I was a core developer for [Spyder IDE](https://www.spyder-ide.org) at Quansight which is when I started actively contributing to open source and became a huge open source advocate.
 - 🌱 I’m currently a community manager for the [Scientific Python Project](https://scientific-python.org), helping grow and coordinate the scientific Python ecosystem.
 - 📢 I’m part of the [SciPy Conference](https://www.scipy2025.scipy.org) organizing committee as a Communications Chair, helping with outreach and engagement for the conference.
+- 🐍 I serve as a chair for the Security Track at [PyCon US](https://us.pycon.org/2026).
 - 🔐 I do research in open source security in collaboration with the [Open Source Program Office at UCSC](https://ucsc-ospo.github.io).
 - 🎶 I'm a singer, and I play some piano and guitar. I've been in multiple bands, choirs and music groups.
 
@@ -65,10 +66,6 @@ I love writing about the things I care about, whether it's documentation, commun
 - [Scientific Python: Community developed, community owned](https://blog.scientific-python.org/scientific-python/scientific-python-project/)
 
 </details>
-
-## Future Talks 🗓️ 
-
-- **["How Secure is Academic Open Source? Insights From the UC OSPO Network"](https://colocatedeventsna2025.sched.com/event/28D1G/how-secure-is-academic-open-source-insights-from-the-uc-ospo-network-juanita-gomez-university-of-california-santa-cruz)** - CNCF: Open Source Security Con **2025** - Atlanta, Georgia (Monday November 10, 2025 10:40am - 11:05am EST)
   
 <!--
 **juanis2112/juanis2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
